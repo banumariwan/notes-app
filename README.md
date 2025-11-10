@@ -1,6 +1,6 @@
-📱 Redmi Project
+📱 Note App
 
-A modern, Redmi-inspired full-stack notes application built with Django and React.
+A modern full-stack notes application built with Django and React.
 Add, edit, and delete notes with a clean, responsive UI, perfect for desktop and mobile.
 
 🚀 Features
